@@ -1,6 +1,6 @@
 x = input("Please enter the starting range number: ")
 y = input("Please enter the end range number: ")
-200
+
 range1 = int(x)
 range2 = int(y)
 
